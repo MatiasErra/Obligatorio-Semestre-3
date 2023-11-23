@@ -1,0 +1,36 @@
+E:\Clases\Clases Programacion\Obligatorios\ObligatirioSemes3\ClasesObligatorio3\bin\Debug\ClasesObligatorio3.dll
+E:\Clases\Clases Programacion\Obligatorios\ObligatirioSemes3\ClasesObligatorio3\bin\Debug\ClasesObligatorio3.pdb
+E:\Clases\Clases Programacion\Obligatorios\ObligatirioSemes3\ClasesObligatorio3\obj\Debug\ClasesObligatorio3.csproj.AssemblyReference.cache
+E:\Clases\Clases Programacion\Obligatorios\ObligatirioSemes3\ClasesObligatorio3\obj\Debug\ClasesObligatorio3.csproj.CoreCompileInputs.cache
+E:\Clases\Clases Programacion\Obligatorios\ObligatirioSemes3\ClasesObligatorio3\obj\Debug\ClasesObligatorio3.dll
+E:\Clases\Clases Programacion\Obligatorios\ObligatirioSemes3\ClasesObligatorio3\obj\Debug\ClasesObligatorio3.pdb
+C:\Users\there\Downloads\ObligatirioSemes3\ClasesObligatorio3\bin\Debug\ClasesObligatorio3.dll
+C:\Users\there\Downloads\ObligatirioSemes3\ClasesObligatorio3\bin\Debug\ClasesObligatorio3.pdb
+C:\Users\there\Downloads\ObligatirioSemes3\ClasesObligatorio3\obj\Debug\ClasesObligatorio3.csproj.AssemblyReference.cache
+C:\Users\there\Downloads\ObligatirioSemes3\ClasesObligatorio3\obj\Debug\ClasesObligatorio3.csproj.CoreCompileInputs.cache
+C:\Users\there\Downloads\ObligatirioSemes3\ClasesObligatorio3\obj\Debug\ClasesObligatorio3.dll
+C:\Users\there\Downloads\ObligatirioSemes3\ClasesObligatorio3\obj\Debug\ClasesObligatorio3.pdb
+C:\Users\Koala\Desktop\ObligatirioSemes3\ClasesObligatorio3\bin\Debug\ClasesObligatorio3.dll
+C:\Users\Koala\Desktop\ObligatirioSemes3\ClasesObligatorio3\bin\Debug\ClasesObligatorio3.pdb
+C:\Users\Koala\Desktop\ObligatirioSemes3\ClasesObligatorio3\obj\Debug\ClasesObligatorio3.csproj.AssemblyReference.cache
+C:\Users\Koala\Desktop\ObligatirioSemes3\ClasesObligatorio3\obj\Debug\ClasesObligatorio3.csproj.CoreCompileInputs.cache
+C:\Users\Koala\Desktop\ObligatirioSemes3\ClasesObligatorio3\obj\Debug\ClasesObligatorio3.dll
+C:\Users\Koala\Desktop\ObligatirioSemes3\ClasesObligatorio3\obj\Debug\ClasesObligatorio3.pdb
+C:\Users\there\Downloads\Nueva carpeta\ObligatirioSemes3\ClasesObligatorio3\bin\Debug\ClasesObligatorio3.dll
+C:\Users\there\Downloads\Nueva carpeta\ObligatirioSemes3\ClasesObligatorio3\bin\Debug\ClasesObligatorio3.pdb
+C:\Users\there\Downloads\Nueva carpeta\ObligatirioSemes3\ClasesObligatorio3\obj\Debug\ClasesObligatorio3.csproj.AssemblyReference.cache
+C:\Users\there\Downloads\Nueva carpeta\ObligatirioSemes3\ClasesObligatorio3\obj\Debug\ClasesObligatorio3.csproj.CoreCompileInputs.cache
+C:\Users\there\Downloads\Nueva carpeta\ObligatirioSemes3\ClasesObligatorio3\obj\Debug\ClasesObligatorio3.dll
+C:\Users\there\Downloads\Nueva carpeta\ObligatirioSemes3\ClasesObligatorio3\obj\Debug\ClasesObligatorio3.pdb
+D:\Clases\Clases Programacion\Obligatorios\ObligatorioProg\ObligatirioSemes3\ClasesObligatorio3\bin\Debug\ClasesObligatorio3.dll
+D:\Clases\Clases Programacion\Obligatorios\ObligatorioProg\ObligatirioSemes3\ClasesObligatorio3\bin\Debug\ClasesObligatorio3.pdb
+D:\Clases\Clases Programacion\Obligatorios\ObligatorioProg\ObligatirioSemes3\ClasesObligatorio3\obj\Debug\ClasesObligatorio3.csproj.AssemblyReference.cache
+D:\Clases\Clases Programacion\Obligatorios\ObligatorioProg\ObligatirioSemes3\ClasesObligatorio3\obj\Debug\ClasesObligatorio3.csproj.CoreCompileInputs.cache
+D:\Clases\Clases Programacion\Obligatorios\ObligatorioProg\ObligatirioSemes3\ClasesObligatorio3\obj\Debug\ClasesObligatorio3.dll
+D:\Clases\Clases Programacion\Obligatorios\ObligatorioProg\ObligatirioSemes3\ClasesObligatorio3\obj\Debug\ClasesObligatorio3.pdb
+D:\Clases\Obligatorios\ObligatorioProg\ObligatorioSemes3\ClasesObligatorio3\bin\Debug\ClasesObligatorio3.dll
+D:\Clases\Obligatorios\ObligatorioProg\ObligatorioSemes3\ClasesObligatorio3\bin\Debug\ClasesObligatorio3.pdb
+D:\Clases\Obligatorios\ObligatorioProg\ObligatorioSemes3\ClasesObligatorio3\obj\Debug\ClasesObligatorio3.csproj.AssemblyReference.cache
+D:\Clases\Obligatorios\ObligatorioProg\ObligatorioSemes3\ClasesObligatorio3\obj\Debug\ClasesObligatorio3.csproj.CoreCompileInputs.cache
+D:\Clases\Obligatorios\ObligatorioProg\ObligatorioSemes3\ClasesObligatorio3\obj\Debug\ClasesObligatorio3.dll
+D:\Clases\Obligatorios\ObligatorioProg\ObligatorioSemes3\ClasesObligatorio3\obj\Debug\ClasesObligatorio3.pdb

@@ -1,0 +1,70 @@
+E:\Clases\Clases Programacion\Obligatorios\ObligatirioSemes3\ControladorasOblig\bin\Debug\ControladorasOblig.dll
+E:\Clases\Clases Programacion\Obligatorios\ObligatirioSemes3\ControladorasOblig\bin\Debug\ControladorasOblig.pdb
+E:\Clases\Clases Programacion\Obligatorios\ObligatirioSemes3\ControladorasOblig\bin\Debug\ClasesObligatorio3.dll
+E:\Clases\Clases Programacion\Obligatorios\ObligatirioSemes3\ControladorasOblig\bin\Debug\persistenciaDB.dll
+E:\Clases\Clases Programacion\Obligatorios\ObligatirioSemes3\ControladorasOblig\bin\Debug\ClasesObligatorio3.pdb
+E:\Clases\Clases Programacion\Obligatorios\ObligatirioSemes3\ControladorasOblig\bin\Debug\persistenciaDB.pdb
+E:\Clases\Clases Programacion\Obligatorios\ObligatirioSemes3\ControladorasOblig\obj\Debug\ControladorasOblig.csproj.AssemblyReference.cache
+E:\Clases\Clases Programacion\Obligatorios\ObligatirioSemes3\ControladorasOblig\obj\Debug\ControladorasOblig.csproj.CoreCompileInputs.cache
+E:\Clases\Clases Programacion\Obligatorios\ObligatirioSemes3\ControladorasOblig\obj\Debug\ControladorasOblig.csproj.CopyComplete
+E:\Clases\Clases Programacion\Obligatorios\ObligatirioSemes3\ControladorasOblig\obj\Debug\ControladorasOblig.dll
+E:\Clases\Clases Programacion\Obligatorios\ObligatirioSemes3\ControladorasOblig\obj\Debug\ControladorasOblig.pdb
+C:\Users\there\Downloads\ObligatirioSemes3\ControladorasOblig\bin\Debug\ControladorasOblig.dll
+C:\Users\there\Downloads\ObligatirioSemes3\ControladorasOblig\bin\Debug\ControladorasOblig.pdb
+C:\Users\there\Downloads\ObligatirioSemes3\ControladorasOblig\bin\Debug\ClasesObligatorio3.dll
+C:\Users\there\Downloads\ObligatirioSemes3\ControladorasOblig\bin\Debug\persistenciaDB.dll
+C:\Users\there\Downloads\ObligatirioSemes3\ControladorasOblig\bin\Debug\ClasesObligatorio3.pdb
+C:\Users\there\Downloads\ObligatirioSemes3\ControladorasOblig\bin\Debug\persistenciaDB.pdb
+C:\Users\there\Downloads\ObligatirioSemes3\ControladorasOblig\obj\Debug\ControladorasOblig.csproj.AssemblyReference.cache
+C:\Users\there\Downloads\ObligatirioSemes3\ControladorasOblig\obj\Debug\ControladorasOblig.csproj.CoreCompileInputs.cache
+C:\Users\there\Downloads\ObligatirioSemes3\ControladorasOblig\obj\Debug\ControladorasOblig.csproj.CopyComplete
+C:\Users\there\Downloads\ObligatirioSemes3\ControladorasOblig\obj\Debug\ControladorasOblig.dll
+C:\Users\there\Downloads\ObligatirioSemes3\ControladorasOblig\obj\Debug\ControladorasOblig.pdb
+C:\Users\Koala\Desktop\ObligatirioSemes3\ControladorasOblig\obj\Debug\ControladorasOblig.csproj.AssemblyReference.cache
+C:\Users\Koala\Desktop\ObligatirioSemes3\ControladorasOblig\obj\Debug\ControladorasOblig.csproj.CoreCompileInputs.cache
+C:\Users\Koala\Desktop\ObligatirioSemes3\ControladorasOblig\obj\Debug\ControladorasOblig.dll
+C:\Users\Koala\Desktop\ObligatirioSemes3\ControladorasOblig\obj\Debug\ControladorasOblig.pdb
+C:\Users\there\Downloads\Nueva carpeta\ObligatirioSemes3\ControladorasOblig\bin\Debug\ControladorasOblig.dll
+C:\Users\there\Downloads\Nueva carpeta\ObligatirioSemes3\ControladorasOblig\bin\Debug\ControladorasOblig.pdb
+C:\Users\there\Downloads\Nueva carpeta\ObligatirioSemes3\ControladorasOblig\bin\Debug\ClasesObligatorio3.dll
+C:\Users\there\Downloads\Nueva carpeta\ObligatirioSemes3\ControladorasOblig\bin\Debug\persistenciaDB.dll
+C:\Users\there\Downloads\Nueva carpeta\ObligatirioSemes3\ControladorasOblig\bin\Debug\ClasesObligatorio3.pdb
+C:\Users\there\Downloads\Nueva carpeta\ObligatirioSemes3\ControladorasOblig\bin\Debug\persistenciaDB.pdb
+C:\Users\there\Downloads\Nueva carpeta\ObligatirioSemes3\ControladorasOblig\obj\Debug\ControladorasOblig.csproj.AssemblyReference.cache
+C:\Users\there\Downloads\Nueva carpeta\ObligatirioSemes3\ControladorasOblig\obj\Debug\ControladorasOblig.csproj.CoreCompileInputs.cache
+C:\Users\there\Downloads\Nueva carpeta\ObligatirioSemes3\ControladorasOblig\obj\Debug\ControladorasOblig.csproj.CopyComplete
+C:\Users\there\Downloads\Nueva carpeta\ObligatirioSemes3\ControladorasOblig\obj\Debug\ControladorasOblig.dll
+C:\Users\there\Downloads\Nueva carpeta\ObligatirioSemes3\ControladorasOblig\obj\Debug\ControladorasOblig.pdb
+C:\Users\there\Desktop\ObligatorioProg\ObligatirioSemes3\ControladorasOblig\bin\Debug\ControladorasOblig.dll
+C:\Users\there\Desktop\ObligatorioProg\ObligatirioSemes3\ControladorasOblig\bin\Debug\ControladorasOblig.pdb
+C:\Users\there\Desktop\ObligatorioProg\ObligatirioSemes3\ControladorasOblig\bin\Debug\ClasesObligatorio3.dll
+C:\Users\there\Desktop\ObligatorioProg\ObligatirioSemes3\ControladorasOblig\bin\Debug\persistenciaDB.dll
+C:\Users\there\Desktop\ObligatorioProg\ObligatirioSemes3\ControladorasOblig\bin\Debug\ClasesObligatorio3.pdb
+C:\Users\there\Desktop\ObligatorioProg\ObligatirioSemes3\ControladorasOblig\bin\Debug\persistenciaDB.pdb
+C:\Users\there\Desktop\ObligatorioProg\ObligatirioSemes3\ControladorasOblig\obj\Debug\ControladorasOblig.csproj.AssemblyReference.cache
+C:\Users\there\Desktop\ObligatorioProg\ObligatirioSemes3\ControladorasOblig\obj\Debug\ControladorasOblig.csproj.CoreCompileInputs.cache
+C:\Users\there\Desktop\ObligatorioProg\ObligatirioSemes3\ControladorasOblig\obj\Debug\ControladorasOblig.csproj.CopyComplete
+C:\Users\there\Desktop\ObligatorioProg\ObligatirioSemes3\ControladorasOblig\obj\Debug\ControladorasOblig.dll
+C:\Users\there\Desktop\ObligatorioProg\ObligatirioSemes3\ControladorasOblig\obj\Debug\ControladorasOblig.pdb
+D:\Clases\Clases Programacion\Obligatorios\ObligatorioProg\ObligatirioSemes3\ControladorasOblig\bin\Debug\ControladorasOblig.dll
+D:\Clases\Clases Programacion\Obligatorios\ObligatorioProg\ObligatirioSemes3\ControladorasOblig\bin\Debug\ControladorasOblig.pdb
+D:\Clases\Clases Programacion\Obligatorios\ObligatorioProg\ObligatirioSemes3\ControladorasOblig\bin\Debug\ClasesObligatorio3.dll
+D:\Clases\Clases Programacion\Obligatorios\ObligatorioProg\ObligatirioSemes3\ControladorasOblig\bin\Debug\persistenciaDB.dll
+D:\Clases\Clases Programacion\Obligatorios\ObligatorioProg\ObligatirioSemes3\ControladorasOblig\bin\Debug\ClasesObligatorio3.pdb
+D:\Clases\Clases Programacion\Obligatorios\ObligatorioProg\ObligatirioSemes3\ControladorasOblig\bin\Debug\persistenciaDB.pdb
+D:\Clases\Clases Programacion\Obligatorios\ObligatorioProg\ObligatirioSemes3\ControladorasOblig\obj\Debug\ControladorasOblig.csproj.AssemblyReference.cache
+D:\Clases\Clases Programacion\Obligatorios\ObligatorioProg\ObligatirioSemes3\ControladorasOblig\obj\Debug\ControladorasOblig.csproj.CoreCompileInputs.cache
+D:\Clases\Clases Programacion\Obligatorios\ObligatorioProg\ObligatirioSemes3\ControladorasOblig\obj\Debug\ControladorasOblig.csproj.CopyComplete
+D:\Clases\Clases Programacion\Obligatorios\ObligatorioProg\ObligatirioSemes3\ControladorasOblig\obj\Debug\ControladorasOblig.dll
+D:\Clases\Clases Programacion\Obligatorios\ObligatorioProg\ObligatirioSemes3\ControladorasOblig\obj\Debug\ControladorasOblig.pdb
+D:\Clases\Obligatorios\ObligatorioProg\ObligatorioSemes3\ControladorasOblig\bin\Debug\ControladorasOblig.dll
+D:\Clases\Obligatorios\ObligatorioProg\ObligatorioSemes3\ControladorasOblig\bin\Debug\ControladorasOblig.pdb
+D:\Clases\Obligatorios\ObligatorioProg\ObligatorioSemes3\ControladorasOblig\bin\Debug\ClasesObligatorio3.dll
+D:\Clases\Obligatorios\ObligatorioProg\ObligatorioSemes3\ControladorasOblig\bin\Debug\persistenciaDB.dll
+D:\Clases\Obligatorios\ObligatorioProg\ObligatorioSemes3\ControladorasOblig\bin\Debug\ClasesObligatorio3.pdb
+D:\Clases\Obligatorios\ObligatorioProg\ObligatorioSemes3\ControladorasOblig\bin\Debug\persistenciaDB.pdb
+D:\Clases\Obligatorios\ObligatorioProg\ObligatorioSemes3\ControladorasOblig\obj\Debug\ControladorasOblig.csproj.AssemblyReference.cache
+D:\Clases\Obligatorios\ObligatorioProg\ObligatorioSemes3\ControladorasOblig\obj\Debug\ControladorasOblig.csproj.CoreCompileInputs.cache
+D:\Clases\Obligatorios\ObligatorioProg\ObligatorioSemes3\ControladorasOblig\obj\Debug\ControladorasOblig.csproj.CopyComplete
+D:\Clases\Obligatorios\ObligatorioProg\ObligatorioSemes3\ControladorasOblig\obj\Debug\ControladorasOblig.dll
+D:\Clases\Obligatorios\ObligatorioProg\ObligatorioSemes3\ControladorasOblig\obj\Debug\ControladorasOblig.pdb

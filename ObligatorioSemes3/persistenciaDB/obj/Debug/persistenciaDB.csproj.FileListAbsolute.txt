@@ -1,0 +1,49 @@
+E:\Clases\Clases Programacion\Obligatorios\ObligatirioSemes3\persistenciaDB\bin\Debug\persistenciaDB.dll
+E:\Clases\Clases Programacion\Obligatorios\ObligatirioSemes3\persistenciaDB\bin\Debug\persistenciaDB.pdb
+E:\Clases\Clases Programacion\Obligatorios\ObligatirioSemes3\persistenciaDB\obj\Debug\persistenciaDB.csproj.AssemblyReference.cache
+E:\Clases\Clases Programacion\Obligatorios\ObligatirioSemes3\persistenciaDB\obj\Debug\persistenciaDB.csproj.CoreCompileInputs.cache
+E:\Clases\Clases Programacion\Obligatorios\ObligatirioSemes3\persistenciaDB\obj\Debug\persistenciaDB.dll
+E:\Clases\Clases Programacion\Obligatorios\ObligatirioSemes3\persistenciaDB\obj\Debug\persistenciaDB.pdb
+E:\Clases\Clases Programacion\Obligatorios\ObligatirioSemes3\persistenciaDB\bin\Debug\ClasesObligatorio3.dll
+E:\Clases\Clases Programacion\Obligatorios\ObligatirioSemes3\persistenciaDB\bin\Debug\ClasesObligatorio3.pdb
+E:\Clases\Clases Programacion\Obligatorios\ObligatirioSemes3\persistenciaDB\obj\Debug\persistenciaDB.csproj.CopyComplete
+C:\Users\there\Downloads\ObligatirioSemes3\persistenciaDB\bin\Debug\persistenciaDB.dll
+C:\Users\there\Downloads\ObligatirioSemes3\persistenciaDB\bin\Debug\persistenciaDB.pdb
+C:\Users\there\Downloads\ObligatirioSemes3\persistenciaDB\bin\Debug\ClasesObligatorio3.dll
+C:\Users\there\Downloads\ObligatirioSemes3\persistenciaDB\bin\Debug\ClasesObligatorio3.pdb
+C:\Users\there\Downloads\ObligatirioSemes3\persistenciaDB\obj\Debug\persistenciaDB.csproj.AssemblyReference.cache
+C:\Users\there\Downloads\ObligatirioSemes3\persistenciaDB\obj\Debug\persistenciaDB.csproj.CoreCompileInputs.cache
+C:\Users\there\Downloads\ObligatirioSemes3\persistenciaDB\obj\Debug\persistenciaDB.csproj.CopyComplete
+C:\Users\there\Downloads\ObligatirioSemes3\persistenciaDB\obj\Debug\persistenciaDB.dll
+C:\Users\there\Downloads\ObligatirioSemes3\persistenciaDB\obj\Debug\persistenciaDB.pdb
+C:\Users\Koala\Desktop\ObligatirioSemes3\persistenciaDB\obj\Debug\persistenciaDB.csproj.AssemblyReference.cache
+C:\Users\Koala\Desktop\ObligatirioSemes3\persistenciaDB\obj\Debug\persistenciaDB.csproj.CoreCompileInputs.cache
+C:\Users\Koala\Desktop\ObligatirioSemes3\persistenciaDB\obj\Debug\persistenciaDB.dll
+C:\Users\Koala\Desktop\ObligatirioSemes3\persistenciaDB\obj\Debug\persistenciaDB.pdb
+C:\Users\there\Downloads\Nueva carpeta\ObligatirioSemes3\persistenciaDB\bin\Debug\persistenciaDB.dll
+C:\Users\there\Downloads\Nueva carpeta\ObligatirioSemes3\persistenciaDB\bin\Debug\persistenciaDB.pdb
+C:\Users\there\Downloads\Nueva carpeta\ObligatirioSemes3\persistenciaDB\bin\Debug\ClasesObligatorio3.dll
+C:\Users\there\Downloads\Nueva carpeta\ObligatirioSemes3\persistenciaDB\bin\Debug\ClasesObligatorio3.pdb
+C:\Users\there\Downloads\Nueva carpeta\ObligatirioSemes3\persistenciaDB\obj\Debug\persistenciaDB.csproj.AssemblyReference.cache
+C:\Users\there\Downloads\Nueva carpeta\ObligatirioSemes3\persistenciaDB\obj\Debug\persistenciaDB.csproj.CoreCompileInputs.cache
+C:\Users\there\Downloads\Nueva carpeta\ObligatirioSemes3\persistenciaDB\obj\Debug\persistenciaDB.csproj.CopyComplete
+C:\Users\there\Downloads\Nueva carpeta\ObligatirioSemes3\persistenciaDB\obj\Debug\persistenciaDB.dll
+C:\Users\there\Downloads\Nueva carpeta\ObligatirioSemes3\persistenciaDB\obj\Debug\persistenciaDB.pdb
+D:\Clases\Clases Programacion\Obligatorios\ObligatorioProg\ObligatirioSemes3\persistenciaDB\bin\Debug\persistenciaDB.dll
+D:\Clases\Clases Programacion\Obligatorios\ObligatorioProg\ObligatirioSemes3\persistenciaDB\bin\Debug\persistenciaDB.pdb
+D:\Clases\Clases Programacion\Obligatorios\ObligatorioProg\ObligatirioSemes3\persistenciaDB\bin\Debug\ClasesObligatorio3.dll
+D:\Clases\Clases Programacion\Obligatorios\ObligatorioProg\ObligatirioSemes3\persistenciaDB\bin\Debug\ClasesObligatorio3.pdb
+D:\Clases\Clases Programacion\Obligatorios\ObligatorioProg\ObligatirioSemes3\persistenciaDB\obj\Debug\persistenciaDB.csproj.AssemblyReference.cache
+D:\Clases\Clases Programacion\Obligatorios\ObligatorioProg\ObligatirioSemes3\persistenciaDB\obj\Debug\persistenciaDB.csproj.CoreCompileInputs.cache
+D:\Clases\Clases Programacion\Obligatorios\ObligatorioProg\ObligatirioSemes3\persistenciaDB\obj\Debug\persistenciaDB.csproj.CopyComplete
+D:\Clases\Clases Programacion\Obligatorios\ObligatorioProg\ObligatirioSemes3\persistenciaDB\obj\Debug\persistenciaDB.dll
+D:\Clases\Clases Programacion\Obligatorios\ObligatorioProg\ObligatirioSemes3\persistenciaDB\obj\Debug\persistenciaDB.pdb
+D:\Clases\Obligatorios\ObligatorioProg\ObligatorioSemes3\persistenciaDB\bin\Debug\persistenciaDB.dll
+D:\Clases\Obligatorios\ObligatorioProg\ObligatorioSemes3\persistenciaDB\bin\Debug\persistenciaDB.pdb
+D:\Clases\Obligatorios\ObligatorioProg\ObligatorioSemes3\persistenciaDB\bin\Debug\ClasesObligatorio3.dll
+D:\Clases\Obligatorios\ObligatorioProg\ObligatorioSemes3\persistenciaDB\bin\Debug\ClasesObligatorio3.pdb
+D:\Clases\Obligatorios\ObligatorioProg\ObligatorioSemes3\persistenciaDB\obj\Debug\persistenciaDB.csproj.AssemblyReference.cache
+D:\Clases\Obligatorios\ObligatorioProg\ObligatorioSemes3\persistenciaDB\obj\Debug\persistenciaDB.csproj.CoreCompileInputs.cache
+D:\Clases\Obligatorios\ObligatorioProg\ObligatorioSemes3\persistenciaDB\obj\Debug\persistenciaDB.csproj.CopyComplete
+D:\Clases\Obligatorios\ObligatorioProg\ObligatorioSemes3\persistenciaDB\obj\Debug\persistenciaDB.dll
+D:\Clases\Obligatorios\ObligatorioProg\ObligatorioSemes3\persistenciaDB\obj\Debug\persistenciaDB.pdb

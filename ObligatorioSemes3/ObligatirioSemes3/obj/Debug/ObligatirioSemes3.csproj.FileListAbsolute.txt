@@ -1,0 +1,644 @@
+C:\Users\there\source\repos\ObligatirioSemes3\ObligatirioSemes3\bin\ObligatirioSemes3.dll.config
+C:\Users\there\source\repos\ObligatirioSemes3\ObligatirioSemes3\bin\ObligatirioSemes3.dll
+C:\Users\there\source\repos\ObligatirioSemes3\ObligatirioSemes3\bin\ObligatirioSemes3.pdb
+C:\Users\there\source\repos\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\csc.exe
+C:\Users\there\source\repos\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\csc.exe.config
+C:\Users\there\source\repos\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\csc.rsp
+C:\Users\there\source\repos\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\csi.exe
+C:\Users\there\source\repos\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\csi.exe.config
+C:\Users\there\source\repos\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\csi.rsp
+C:\Users\there\source\repos\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\there\source\repos\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\there\source\repos\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\there\source\repos\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\there\source\repos\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\there\source\repos\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\there\source\repos\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\there\source\repos\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\there\source\repos\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\there\source\repos\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\there\source\repos\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\there\source\repos\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\there\source\repos\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.AppContext.dll
+C:\Users\there\source\repos\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\there\source\repos\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Console.dll
+C:\Users\there\source\repos\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\there\source\repos\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\there\source\repos\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\there\source\repos\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\there\source\repos\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.IO.Compression.dll
+C:\Users\there\source\repos\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\there\source\repos\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\there\source\repos\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\there\source\repos\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Net.Http.dll
+C:\Users\there\source\repos\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Net.Sockets.dll
+C:\Users\there\source\repos\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\there\source\repos\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\there\source\repos\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\there\source\repos\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\there\source\repos\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\there\source\repos\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\there\source\repos\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\there\source\repos\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\there\source\repos\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.ValueTuple.dll
+C:\Users\there\source\repos\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\there\source\repos\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\there\source\repos\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Xml.XPath.dll
+C:\Users\there\source\repos\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\there\source\repos\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\vbc.exe
+C:\Users\there\source\repos\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\vbc.exe.config
+C:\Users\there\source\repos\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\vbc.rsp
+C:\Users\there\source\repos\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\VBCSCompiler.exe
+C:\Users\there\source\repos\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\there\source\repos\ObligatirioSemes3\ObligatirioSemes3\bin\Antlr3.Runtime.dll
+C:\Users\there\source\repos\ObligatirioSemes3\ObligatirioSemes3\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\there\source\repos\ObligatirioSemes3\ObligatirioSemes3\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\there\source\repos\ObligatirioSemes3\ObligatirioSemes3\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\there\source\repos\ObligatirioSemes3\ObligatirioSemes3\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\there\source\repos\ObligatirioSemes3\ObligatirioSemes3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\there\source\repos\ObligatirioSemes3\ObligatirioSemes3\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\there\source\repos\ObligatirioSemes3\ObligatirioSemes3\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\there\source\repos\ObligatirioSemes3\ObligatirioSemes3\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\there\source\repos\ObligatirioSemes3\ObligatirioSemes3\bin\Newtonsoft.Json.dll
+C:\Users\there\source\repos\ObligatirioSemes3\ObligatirioSemes3\bin\System.Web.Optimization.dll
+C:\Users\there\source\repos\ObligatirioSemes3\ObligatirioSemes3\bin\WebGrease.dll
+C:\Users\there\source\repos\ObligatirioSemes3\ObligatirioSemes3\bin\System.Web.Optimization.xml
+C:\Users\there\source\repos\ObligatirioSemes3\ObligatirioSemes3\bin\Newtonsoft.Json.xml
+C:\Users\there\source\repos\ObligatirioSemes3\ObligatirioSemes3\bin\Antlr3.Runtime.pdb
+C:\Users\there\source\repos\ObligatirioSemes3\ObligatirioSemes3\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\there\source\repos\ObligatirioSemes3\ObligatirioSemes3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\there\source\repos\ObligatirioSemes3\ObligatirioSemes3\bin\es\System.Web.Optimization.resources.dll
+C:\Users\there\source\repos\ObligatirioSemes3\ObligatirioSemes3\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\there\source\repos\ObligatirioSemes3\ObligatirioSemes3\obj\Debug\ObligatirioSemes3.csproj.AssemblyReference.cache
+C:\Users\there\source\repos\ObligatirioSemes3\ObligatirioSemes3\obj\Debug\ObligatirioSemes3.csproj.CoreCompileInputs.cache
+C:\Users\there\source\repos\ObligatirioSemes3\ObligatirioSemes3\obj\Debug\ObligatirioSemes3.csproj.CopyComplete
+C:\Users\there\source\repos\ObligatirioSemes3\ObligatirioSemes3\obj\Debug\ObligatirioSemes3.dll
+C:\Users\there\source\repos\ObligatirioSemes3\ObligatirioSemes3\obj\Debug\ObligatirioSemes3.pdb
+C:\Users\Koala\Desktop\ObligatirioSemes3\ObligatirioSemes3\bin\ObligatirioSemes3.dll.config
+C:\Users\Koala\Desktop\ObligatirioSemes3\ObligatirioSemes3\bin\ObligatirioSemes3.dll
+C:\Users\Koala\Desktop\ObligatirioSemes3\ObligatirioSemes3\bin\ObligatirioSemes3.pdb
+C:\Users\Koala\Desktop\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\csc.exe
+C:\Users\Koala\Desktop\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\csc.exe.config
+C:\Users\Koala\Desktop\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\csc.rsp
+C:\Users\Koala\Desktop\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\csi.exe
+C:\Users\Koala\Desktop\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\csi.exe.config
+C:\Users\Koala\Desktop\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\csi.rsp
+C:\Users\Koala\Desktop\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Koala\Desktop\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Koala\Desktop\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Koala\Desktop\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Koala\Desktop\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Koala\Desktop\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Koala\Desktop\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Koala\Desktop\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Koala\Desktop\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Koala\Desktop\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Koala\Desktop\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Koala\Desktop\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Koala\Desktop\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.AppContext.dll
+C:\Users\Koala\Desktop\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Koala\Desktop\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Console.dll
+C:\Users\Koala\Desktop\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Koala\Desktop\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Koala\Desktop\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Koala\Desktop\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Koala\Desktop\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.IO.Compression.dll
+C:\Users\Koala\Desktop\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Koala\Desktop\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Koala\Desktop\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Koala\Desktop\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Net.Http.dll
+C:\Users\Koala\Desktop\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Koala\Desktop\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Koala\Desktop\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Koala\Desktop\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Koala\Desktop\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Koala\Desktop\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Koala\Desktop\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Koala\Desktop\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Koala\Desktop\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Koala\Desktop\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.ValueTuple.dll
+C:\Users\Koala\Desktop\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Koala\Desktop\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Koala\Desktop\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Koala\Desktop\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Koala\Desktop\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\vbc.exe
+C:\Users\Koala\Desktop\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\vbc.exe.config
+C:\Users\Koala\Desktop\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\vbc.rsp
+C:\Users\Koala\Desktop\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\VBCSCompiler.exe
+C:\Users\Koala\Desktop\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Koala\Desktop\ObligatirioSemes3\ObligatirioSemes3\bin\Antlr3.Runtime.dll
+C:\Users\Koala\Desktop\ObligatirioSemes3\ObligatirioSemes3\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Koala\Desktop\ObligatirioSemes3\ObligatirioSemes3\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Koala\Desktop\ObligatirioSemes3\ObligatirioSemes3\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Koala\Desktop\ObligatirioSemes3\ObligatirioSemes3\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Koala\Desktop\ObligatirioSemes3\ObligatirioSemes3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Koala\Desktop\ObligatirioSemes3\ObligatirioSemes3\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Koala\Desktop\ObligatirioSemes3\ObligatirioSemes3\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Koala\Desktop\ObligatirioSemes3\ObligatirioSemes3\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Koala\Desktop\ObligatirioSemes3\ObligatirioSemes3\bin\Newtonsoft.Json.dll
+C:\Users\Koala\Desktop\ObligatirioSemes3\ObligatirioSemes3\bin\System.Web.Optimization.dll
+C:\Users\Koala\Desktop\ObligatirioSemes3\ObligatirioSemes3\bin\WebGrease.dll
+C:\Users\Koala\Desktop\ObligatirioSemes3\ObligatirioSemes3\bin\System.Web.Optimization.xml
+C:\Users\Koala\Desktop\ObligatirioSemes3\ObligatirioSemes3\bin\Newtonsoft.Json.xml
+C:\Users\Koala\Desktop\ObligatirioSemes3\ObligatirioSemes3\bin\Antlr3.Runtime.pdb
+C:\Users\Koala\Desktop\ObligatirioSemes3\ObligatirioSemes3\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Koala\Desktop\ObligatirioSemes3\ObligatirioSemes3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Koala\Desktop\ObligatirioSemes3\ObligatirioSemes3\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Koala\Desktop\ObligatirioSemes3\ObligatirioSemes3\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Koala\Desktop\ObligatirioSemes3\ObligatirioSemes3\obj\Debug\ObligatirioSemes3.csproj.AssemblyReference.cache
+C:\Users\Koala\Desktop\ObligatirioSemes3\ObligatirioSemes3\obj\Debug\ObligatirioSemes3.csproj.CoreCompileInputs.cache
+C:\Users\Koala\Desktop\ObligatirioSemes3\ObligatirioSemes3\obj\Debug\ObligatirioSemes3.csproj.CopyComplete
+C:\Users\Koala\Desktop\ObligatirioSemes3\ObligatirioSemes3\obj\Debug\ObligatirioSemes3.dll
+C:\Users\Koala\Desktop\ObligatirioSemes3\ObligatirioSemes3\obj\Debug\ObligatirioSemes3.pdb
+E:\Clases\Clases Programacion\Obligatorios\ObligatirioSemes3\ObligatirioSemes3\bin\ObligatirioSemes3.dll.config
+E:\Clases\Clases Programacion\Obligatorios\ObligatirioSemes3\ObligatirioSemes3\bin\ObligatirioSemes3.dll
+E:\Clases\Clases Programacion\Obligatorios\ObligatirioSemes3\ObligatirioSemes3\bin\ObligatirioSemes3.pdb
+E:\Clases\Clases Programacion\Obligatorios\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\csc.exe
+E:\Clases\Clases Programacion\Obligatorios\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\csc.exe.config
+E:\Clases\Clases Programacion\Obligatorios\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\csc.rsp
+E:\Clases\Clases Programacion\Obligatorios\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\csi.exe
+E:\Clases\Clases Programacion\Obligatorios\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\csi.exe.config
+E:\Clases\Clases Programacion\Obligatorios\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\csi.rsp
+E:\Clases\Clases Programacion\Obligatorios\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Clases\Clases Programacion\Obligatorios\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Clases\Clases Programacion\Obligatorios\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Clases\Clases Programacion\Obligatorios\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Clases\Clases Programacion\Obligatorios\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Clases\Clases Programacion\Obligatorios\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Clases\Clases Programacion\Obligatorios\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Clases\Clases Programacion\Obligatorios\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Clases\Clases Programacion\Obligatorios\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Clases\Clases Programacion\Obligatorios\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Clases\Clases Programacion\Obligatorios\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Clases\Clases Programacion\Obligatorios\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Clases\Clases Programacion\Obligatorios\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.AppContext.dll
+E:\Clases\Clases Programacion\Obligatorios\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Collections.Immutable.dll
+E:\Clases\Clases Programacion\Obligatorios\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Console.dll
+E:\Clases\Clases Programacion\Obligatorios\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Clases\Clases Programacion\Obligatorios\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Clases\Clases Programacion\Obligatorios\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Clases\Clases Programacion\Obligatorios\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Globalization.Calendars.dll
+E:\Clases\Clases Programacion\Obligatorios\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.IO.Compression.dll
+E:\Clases\Clases Programacion\Obligatorios\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Clases\Clases Programacion\Obligatorios\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.IO.FileSystem.dll
+E:\Clases\Clases Programacion\Obligatorios\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Clases\Clases Programacion\Obligatorios\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Net.Http.dll
+E:\Clases\Clases Programacion\Obligatorios\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Net.Sockets.dll
+E:\Clases\Clases Programacion\Obligatorios\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Reflection.Metadata.dll
+E:\Clases\Clases Programacion\Obligatorios\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Clases\Clases Programacion\Obligatorios\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Clases\Clases Programacion\Obligatorios\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Clases\Clases Programacion\Obligatorios\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Clases\Clases Programacion\Obligatorios\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Clases\Clases Programacion\Obligatorios\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Clases\Clases Programacion\Obligatorios\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Clases\Clases Programacion\Obligatorios\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.ValueTuple.dll
+E:\Clases\Clases Programacion\Obligatorios\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Clases\Clases Programacion\Obligatorios\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Clases\Clases Programacion\Obligatorios\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Xml.XPath.dll
+E:\Clases\Clases Programacion\Obligatorios\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Clases\Clases Programacion\Obligatorios\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\vbc.exe
+E:\Clases\Clases Programacion\Obligatorios\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\vbc.exe.config
+E:\Clases\Clases Programacion\Obligatorios\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\vbc.rsp
+E:\Clases\Clases Programacion\Obligatorios\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\VBCSCompiler.exe
+E:\Clases\Clases Programacion\Obligatorios\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\VBCSCompiler.exe.config
+E:\Clases\Clases Programacion\Obligatorios\ObligatirioSemes3\ObligatirioSemes3\bin\Antlr3.Runtime.dll
+E:\Clases\Clases Programacion\Obligatorios\ObligatirioSemes3\ObligatirioSemes3\bin\AspNet.ScriptManager.bootstrap.dll
+E:\Clases\Clases Programacion\Obligatorios\ObligatirioSemes3\ObligatirioSemes3\bin\AspNet.ScriptManager.jQuery.dll
+E:\Clases\Clases Programacion\Obligatorios\ObligatirioSemes3\ObligatirioSemes3\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\Clases\Clases Programacion\Obligatorios\ObligatirioSemes3\ObligatirioSemes3\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\Clases\Clases Programacion\Obligatorios\ObligatirioSemes3\ObligatirioSemes3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Clases\Clases Programacion\Obligatorios\ObligatirioSemes3\ObligatirioSemes3\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\Clases\Clases Programacion\Obligatorios\ObligatirioSemes3\ObligatirioSemes3\bin\Microsoft.ScriptManager.WebForms.dll
+E:\Clases\Clases Programacion\Obligatorios\ObligatirioSemes3\ObligatirioSemes3\bin\Microsoft.Web.Infrastructure.dll
+E:\Clases\Clases Programacion\Obligatorios\ObligatirioSemes3\ObligatirioSemes3\bin\Newtonsoft.Json.dll
+E:\Clases\Clases Programacion\Obligatorios\ObligatirioSemes3\ObligatirioSemes3\bin\System.Web.Optimization.dll
+E:\Clases\Clases Programacion\Obligatorios\ObligatirioSemes3\ObligatirioSemes3\bin\WebGrease.dll
+E:\Clases\Clases Programacion\Obligatorios\ObligatirioSemes3\ObligatirioSemes3\bin\System.Web.Optimization.xml
+E:\Clases\Clases Programacion\Obligatorios\ObligatirioSemes3\ObligatirioSemes3\bin\Newtonsoft.Json.xml
+E:\Clases\Clases Programacion\Obligatorios\ObligatirioSemes3\ObligatirioSemes3\bin\Antlr3.Runtime.pdb
+E:\Clases\Clases Programacion\Obligatorios\ObligatirioSemes3\ObligatirioSemes3\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\Clases\Clases Programacion\Obligatorios\ObligatirioSemes3\ObligatirioSemes3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Clases\Clases Programacion\Obligatorios\ObligatirioSemes3\ObligatirioSemes3\bin\es\System.Web.Optimization.resources.dll
+E:\Clases\Clases Programacion\Obligatorios\ObligatirioSemes3\ObligatirioSemes3\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+E:\Clases\Clases Programacion\Obligatorios\ObligatirioSemes3\ObligatirioSemes3\obj\Debug\ObligatirioSemes3.csproj.AssemblyReference.cache
+E:\Clases\Clases Programacion\Obligatorios\ObligatirioSemes3\ObligatirioSemes3\obj\Debug\ObligatirioSemes3.csproj.CoreCompileInputs.cache
+E:\Clases\Clases Programacion\Obligatorios\ObligatirioSemes3\ObligatirioSemes3\obj\Debug\ObligatirioSemes3.csproj.CopyComplete
+E:\Clases\Clases Programacion\Obligatorios\ObligatirioSemes3\ObligatirioSemes3\obj\Debug\ObligatirioSemes3.dll
+E:\Clases\Clases Programacion\Obligatorios\ObligatirioSemes3\ObligatirioSemes3\obj\Debug\ObligatirioSemes3.pdb
+E:\Clases\Clases Programacion\Obligatorios\ObligatirioSemes3\ObligatirioSemes3\bin\ClasesObligatorio3.dll
+E:\Clases\Clases Programacion\Obligatorios\ObligatirioSemes3\ObligatirioSemes3\bin\ClasesObligatorio3.pdb
+E:\Clases\Clases Programacion\Obligatorios\ObligatirioSemes3\ObligatirioSemes3\bin\ControladorasOblig.dll
+E:\Clases\Clases Programacion\Obligatorios\ObligatirioSemes3\ObligatirioSemes3\bin\persistenciaDB.dll
+E:\Clases\Clases Programacion\Obligatorios\ObligatirioSemes3\ObligatirioSemes3\bin\ControladorasOblig.pdb
+E:\Clases\Clases Programacion\Obligatorios\ObligatirioSemes3\ObligatirioSemes3\bin\persistenciaDB.pdb
+C:\Users\there\Downloads\ObligatirioSemes3\ObligatirioSemes3\bin\ObligatirioSemes3.dll.config
+C:\Users\there\Downloads\ObligatirioSemes3\ObligatirioSemes3\bin\ObligatirioSemes3.dll
+C:\Users\there\Downloads\ObligatirioSemes3\ObligatirioSemes3\bin\ObligatirioSemes3.pdb
+C:\Users\there\Downloads\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\csc.exe
+C:\Users\there\Downloads\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\csc.exe.config
+C:\Users\there\Downloads\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\csc.rsp
+C:\Users\there\Downloads\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\csi.exe
+C:\Users\there\Downloads\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\csi.exe.config
+C:\Users\there\Downloads\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\csi.rsp
+C:\Users\there\Downloads\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\there\Downloads\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\there\Downloads\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\there\Downloads\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\there\Downloads\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\there\Downloads\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\there\Downloads\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\there\Downloads\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\there\Downloads\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\there\Downloads\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\there\Downloads\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\there\Downloads\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\there\Downloads\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.AppContext.dll
+C:\Users\there\Downloads\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\there\Downloads\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Console.dll
+C:\Users\there\Downloads\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\there\Downloads\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\there\Downloads\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\there\Downloads\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\there\Downloads\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.IO.Compression.dll
+C:\Users\there\Downloads\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\there\Downloads\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\there\Downloads\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\there\Downloads\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Net.Http.dll
+C:\Users\there\Downloads\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Net.Sockets.dll
+C:\Users\there\Downloads\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\there\Downloads\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\there\Downloads\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\there\Downloads\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\there\Downloads\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\there\Downloads\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\there\Downloads\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\there\Downloads\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\there\Downloads\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.ValueTuple.dll
+C:\Users\there\Downloads\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\there\Downloads\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\there\Downloads\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Xml.XPath.dll
+C:\Users\there\Downloads\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\there\Downloads\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\vbc.exe
+C:\Users\there\Downloads\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\vbc.exe.config
+C:\Users\there\Downloads\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\vbc.rsp
+C:\Users\there\Downloads\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\VBCSCompiler.exe
+C:\Users\there\Downloads\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\there\Downloads\ObligatirioSemes3\ObligatirioSemes3\bin\Antlr3.Runtime.dll
+C:\Users\there\Downloads\ObligatirioSemes3\ObligatirioSemes3\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\there\Downloads\ObligatirioSemes3\ObligatirioSemes3\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\there\Downloads\ObligatirioSemes3\ObligatirioSemes3\bin\ClasesObligatorio3.dll
+C:\Users\there\Downloads\ObligatirioSemes3\ObligatirioSemes3\bin\ControladorasOblig.dll
+C:\Users\there\Downloads\ObligatirioSemes3\ObligatirioSemes3\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\there\Downloads\ObligatirioSemes3\ObligatirioSemes3\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\there\Downloads\ObligatirioSemes3\ObligatirioSemes3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\there\Downloads\ObligatirioSemes3\ObligatirioSemes3\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\there\Downloads\ObligatirioSemes3\ObligatirioSemes3\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\there\Downloads\ObligatirioSemes3\ObligatirioSemes3\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\there\Downloads\ObligatirioSemes3\ObligatirioSemes3\bin\Newtonsoft.Json.dll
+C:\Users\there\Downloads\ObligatirioSemes3\ObligatirioSemes3\bin\System.Web.Optimization.dll
+C:\Users\there\Downloads\ObligatirioSemes3\ObligatirioSemes3\bin\WebGrease.dll
+C:\Users\there\Downloads\ObligatirioSemes3\ObligatirioSemes3\bin\persistenciaDB.dll
+C:\Users\there\Downloads\ObligatirioSemes3\ObligatirioSemes3\bin\ClasesObligatorio3.pdb
+C:\Users\there\Downloads\ObligatirioSemes3\ObligatirioSemes3\bin\ControladorasOblig.pdb
+C:\Users\there\Downloads\ObligatirioSemes3\ObligatirioSemes3\bin\System.Web.Optimization.xml
+C:\Users\there\Downloads\ObligatirioSemes3\ObligatirioSemes3\bin\Newtonsoft.Json.xml
+C:\Users\there\Downloads\ObligatirioSemes3\ObligatirioSemes3\bin\Antlr3.Runtime.pdb
+C:\Users\there\Downloads\ObligatirioSemes3\ObligatirioSemes3\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\there\Downloads\ObligatirioSemes3\ObligatirioSemes3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\there\Downloads\ObligatirioSemes3\ObligatirioSemes3\bin\persistenciaDB.pdb
+C:\Users\there\Downloads\ObligatirioSemes3\ObligatirioSemes3\bin\es\System.Web.Optimization.resources.dll
+C:\Users\there\Downloads\ObligatirioSemes3\ObligatirioSemes3\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\there\Downloads\ObligatirioSemes3\ObligatirioSemes3\obj\Debug\ObligatirioSemes3.csproj.AssemblyReference.cache
+C:\Users\there\Downloads\ObligatirioSemes3\ObligatirioSemes3\obj\Debug\ObligatirioSemes3.csproj.CoreCompileInputs.cache
+C:\Users\there\Downloads\ObligatirioSemes3\ObligatirioSemes3\obj\Debug\ObligatirioSemes3.csproj.CopyComplete
+C:\Users\there\Downloads\ObligatirioSemes3\ObligatirioSemes3\obj\Debug\ObligatirioSemes3.dll
+C:\Users\there\Downloads\ObligatirioSemes3\ObligatirioSemes3\obj\Debug\ObligatirioSemes3.pdb
+C:\Users\there\Downloads\Nueva carpeta\ObligatirioSemes3\ObligatirioSemes3\bin\ObligatirioSemes3.dll.config
+C:\Users\there\Downloads\Nueva carpeta\ObligatirioSemes3\ObligatirioSemes3\bin\ObligatirioSemes3.dll
+C:\Users\there\Downloads\Nueva carpeta\ObligatirioSemes3\ObligatirioSemes3\bin\ObligatirioSemes3.pdb
+C:\Users\there\Downloads\Nueva carpeta\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\csc.exe
+C:\Users\there\Downloads\Nueva carpeta\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\csc.exe.config
+C:\Users\there\Downloads\Nueva carpeta\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\csc.rsp
+C:\Users\there\Downloads\Nueva carpeta\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\csi.exe
+C:\Users\there\Downloads\Nueva carpeta\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\csi.exe.config
+C:\Users\there\Downloads\Nueva carpeta\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\csi.rsp
+C:\Users\there\Downloads\Nueva carpeta\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\there\Downloads\Nueva carpeta\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\there\Downloads\Nueva carpeta\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\there\Downloads\Nueva carpeta\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\there\Downloads\Nueva carpeta\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\there\Downloads\Nueva carpeta\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\there\Downloads\Nueva carpeta\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\there\Downloads\Nueva carpeta\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\there\Downloads\Nueva carpeta\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\there\Downloads\Nueva carpeta\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\there\Downloads\Nueva carpeta\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\there\Downloads\Nueva carpeta\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\there\Downloads\Nueva carpeta\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.AppContext.dll
+C:\Users\there\Downloads\Nueva carpeta\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\there\Downloads\Nueva carpeta\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Console.dll
+C:\Users\there\Downloads\Nueva carpeta\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\there\Downloads\Nueva carpeta\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\there\Downloads\Nueva carpeta\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\there\Downloads\Nueva carpeta\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\there\Downloads\Nueva carpeta\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.IO.Compression.dll
+C:\Users\there\Downloads\Nueva carpeta\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\there\Downloads\Nueva carpeta\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\there\Downloads\Nueva carpeta\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\there\Downloads\Nueva carpeta\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Net.Http.dll
+C:\Users\there\Downloads\Nueva carpeta\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Net.Sockets.dll
+C:\Users\there\Downloads\Nueva carpeta\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\there\Downloads\Nueva carpeta\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\there\Downloads\Nueva carpeta\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\there\Downloads\Nueva carpeta\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\there\Downloads\Nueva carpeta\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\there\Downloads\Nueva carpeta\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\there\Downloads\Nueva carpeta\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\there\Downloads\Nueva carpeta\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\there\Downloads\Nueva carpeta\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.ValueTuple.dll
+C:\Users\there\Downloads\Nueva carpeta\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\there\Downloads\Nueva carpeta\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\there\Downloads\Nueva carpeta\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Xml.XPath.dll
+C:\Users\there\Downloads\Nueva carpeta\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\there\Downloads\Nueva carpeta\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\vbc.exe
+C:\Users\there\Downloads\Nueva carpeta\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\vbc.exe.config
+C:\Users\there\Downloads\Nueva carpeta\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\vbc.rsp
+C:\Users\there\Downloads\Nueva carpeta\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\VBCSCompiler.exe
+C:\Users\there\Downloads\Nueva carpeta\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\there\Downloads\Nueva carpeta\ObligatirioSemes3\ObligatirioSemes3\bin\Antlr3.Runtime.dll
+C:\Users\there\Downloads\Nueva carpeta\ObligatirioSemes3\ObligatirioSemes3\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\there\Downloads\Nueva carpeta\ObligatirioSemes3\ObligatirioSemes3\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\there\Downloads\Nueva carpeta\ObligatirioSemes3\ObligatirioSemes3\bin\ClasesObligatorio3.dll
+C:\Users\there\Downloads\Nueva carpeta\ObligatirioSemes3\ObligatirioSemes3\bin\ControladorasOblig.dll
+C:\Users\there\Downloads\Nueva carpeta\ObligatirioSemes3\ObligatirioSemes3\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\there\Downloads\Nueva carpeta\ObligatirioSemes3\ObligatirioSemes3\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\there\Downloads\Nueva carpeta\ObligatirioSemes3\ObligatirioSemes3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\there\Downloads\Nueva carpeta\ObligatirioSemes3\ObligatirioSemes3\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\there\Downloads\Nueva carpeta\ObligatirioSemes3\ObligatirioSemes3\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\there\Downloads\Nueva carpeta\ObligatirioSemes3\ObligatirioSemes3\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\there\Downloads\Nueva carpeta\ObligatirioSemes3\ObligatirioSemes3\bin\Newtonsoft.Json.dll
+C:\Users\there\Downloads\Nueva carpeta\ObligatirioSemes3\ObligatirioSemes3\bin\System.Web.Optimization.dll
+C:\Users\there\Downloads\Nueva carpeta\ObligatirioSemes3\ObligatirioSemes3\bin\WebGrease.dll
+C:\Users\there\Downloads\Nueva carpeta\ObligatirioSemes3\ObligatirioSemes3\bin\persistenciaDB.dll
+C:\Users\there\Downloads\Nueva carpeta\ObligatirioSemes3\ObligatirioSemes3\bin\ClasesObligatorio3.pdb
+C:\Users\there\Downloads\Nueva carpeta\ObligatirioSemes3\ObligatirioSemes3\bin\ControladorasOblig.pdb
+C:\Users\there\Downloads\Nueva carpeta\ObligatirioSemes3\ObligatirioSemes3\bin\System.Web.Optimization.xml
+C:\Users\there\Downloads\Nueva carpeta\ObligatirioSemes3\ObligatirioSemes3\bin\Newtonsoft.Json.xml
+C:\Users\there\Downloads\Nueva carpeta\ObligatirioSemes3\ObligatirioSemes3\bin\Antlr3.Runtime.pdb
+C:\Users\there\Downloads\Nueva carpeta\ObligatirioSemes3\ObligatirioSemes3\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\there\Downloads\Nueva carpeta\ObligatirioSemes3\ObligatirioSemes3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\there\Downloads\Nueva carpeta\ObligatirioSemes3\ObligatirioSemes3\bin\persistenciaDB.pdb
+C:\Users\there\Downloads\Nueva carpeta\ObligatirioSemes3\ObligatirioSemes3\bin\es\System.Web.Optimization.resources.dll
+C:\Users\there\Downloads\Nueva carpeta\ObligatirioSemes3\ObligatirioSemes3\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\there\Downloads\Nueva carpeta\ObligatirioSemes3\ObligatirioSemes3\obj\Debug\ObligatirioSemes3.csproj.AssemblyReference.cache
+C:\Users\there\Downloads\Nueva carpeta\ObligatirioSemes3\ObligatirioSemes3\obj\Debug\ObligatirioSemes3.csproj.CoreCompileInputs.cache
+C:\Users\there\Downloads\Nueva carpeta\ObligatirioSemes3\ObligatirioSemes3\obj\Debug\ObligatirioSemes3.csproj.CopyComplete
+C:\Users\there\Downloads\Nueva carpeta\ObligatirioSemes3\ObligatirioSemes3\obj\Debug\ObligatirioSemes3.dll
+C:\Users\there\Downloads\Nueva carpeta\ObligatirioSemes3\ObligatirioSemes3\obj\Debug\ObligatirioSemes3.pdb
+C:\Users\there\Desktop\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\ObligatirioSemes3.dll.config
+C:\Users\there\Desktop\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\ObligatirioSemes3.dll
+C:\Users\there\Desktop\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\ObligatirioSemes3.pdb
+C:\Users\there\Desktop\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\csc.exe
+C:\Users\there\Desktop\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\csc.exe.config
+C:\Users\there\Desktop\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\csc.rsp
+C:\Users\there\Desktop\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\csi.exe
+C:\Users\there\Desktop\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\csi.exe.config
+C:\Users\there\Desktop\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\csi.rsp
+C:\Users\there\Desktop\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\there\Desktop\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\there\Desktop\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\there\Desktop\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\there\Desktop\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\there\Desktop\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\there\Desktop\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\there\Desktop\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\there\Desktop\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\there\Desktop\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\there\Desktop\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\there\Desktop\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\there\Desktop\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.AppContext.dll
+C:\Users\there\Desktop\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\there\Desktop\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Console.dll
+C:\Users\there\Desktop\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\there\Desktop\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\there\Desktop\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\there\Desktop\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\there\Desktop\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.IO.Compression.dll
+C:\Users\there\Desktop\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\there\Desktop\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\there\Desktop\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\there\Desktop\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Net.Http.dll
+C:\Users\there\Desktop\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Net.Sockets.dll
+C:\Users\there\Desktop\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\there\Desktop\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\there\Desktop\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\there\Desktop\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\there\Desktop\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\there\Desktop\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\there\Desktop\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\there\Desktop\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\there\Desktop\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.ValueTuple.dll
+C:\Users\there\Desktop\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\there\Desktop\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\there\Desktop\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Xml.XPath.dll
+C:\Users\there\Desktop\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\there\Desktop\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\vbc.exe
+C:\Users\there\Desktop\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\vbc.exe.config
+C:\Users\there\Desktop\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\vbc.rsp
+C:\Users\there\Desktop\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\VBCSCompiler.exe
+C:\Users\there\Desktop\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\there\Desktop\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\Antlr3.Runtime.dll
+C:\Users\there\Desktop\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\there\Desktop\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\there\Desktop\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\ClasesObligatorio3.dll
+C:\Users\there\Desktop\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\ControladorasOblig.dll
+C:\Users\there\Desktop\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\there\Desktop\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\there\Desktop\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\there\Desktop\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\there\Desktop\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\there\Desktop\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\there\Desktop\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\Newtonsoft.Json.dll
+C:\Users\there\Desktop\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\System.Web.Optimization.dll
+C:\Users\there\Desktop\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\WebGrease.dll
+C:\Users\there\Desktop\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\persistenciaDB.dll
+C:\Users\there\Desktop\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\ClasesObligatorio3.pdb
+C:\Users\there\Desktop\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\ControladorasOblig.pdb
+C:\Users\there\Desktop\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\System.Web.Optimization.xml
+C:\Users\there\Desktop\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\Newtonsoft.Json.xml
+C:\Users\there\Desktop\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\Antlr3.Runtime.pdb
+C:\Users\there\Desktop\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\there\Desktop\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\there\Desktop\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\persistenciaDB.pdb
+C:\Users\there\Desktop\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\es\System.Web.Optimization.resources.dll
+C:\Users\there\Desktop\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\there\Desktop\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\obj\Debug\ObligatirioSemes3.csproj.AssemblyReference.cache
+C:\Users\there\Desktop\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\obj\Debug\ObligatirioSemes3.csproj.CoreCompileInputs.cache
+C:\Users\there\Desktop\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\obj\Debug\ObligatirioSemes3.csproj.CopyComplete
+C:\Users\there\Desktop\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\obj\Debug\ObligatirioSemes3.dll
+C:\Users\there\Desktop\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\obj\Debug\ObligatirioSemes3.pdb
+D:\Clases\Clases Programacion\Obligatorios\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\ObligatirioSemes3.dll.config
+D:\Clases\Clases Programacion\Obligatorios\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\ObligatirioSemes3.dll
+D:\Clases\Clases Programacion\Obligatorios\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\ObligatirioSemes3.pdb
+D:\Clases\Clases Programacion\Obligatorios\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\csc.exe
+D:\Clases\Clases Programacion\Obligatorios\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\csc.exe.config
+D:\Clases\Clases Programacion\Obligatorios\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\csc.rsp
+D:\Clases\Clases Programacion\Obligatorios\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\csi.exe
+D:\Clases\Clases Programacion\Obligatorios\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\csi.exe.config
+D:\Clases\Clases Programacion\Obligatorios\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\csi.rsp
+D:\Clases\Clases Programacion\Obligatorios\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Clases\Clases Programacion\Obligatorios\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Clases\Clases Programacion\Obligatorios\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Clases\Clases Programacion\Obligatorios\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Clases\Clases Programacion\Obligatorios\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Clases\Clases Programacion\Obligatorios\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Clases\Clases Programacion\Obligatorios\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Clases\Clases Programacion\Obligatorios\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Clases\Clases Programacion\Obligatorios\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Clases\Clases Programacion\Obligatorios\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Clases\Clases Programacion\Obligatorios\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Clases\Clases Programacion\Obligatorios\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Clases\Clases Programacion\Obligatorios\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.AppContext.dll
+D:\Clases\Clases Programacion\Obligatorios\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Collections.Immutable.dll
+D:\Clases\Clases Programacion\Obligatorios\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Console.dll
+D:\Clases\Clases Programacion\Obligatorios\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Clases\Clases Programacion\Obligatorios\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Clases\Clases Programacion\Obligatorios\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Clases\Clases Programacion\Obligatorios\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Globalization.Calendars.dll
+D:\Clases\Clases Programacion\Obligatorios\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.IO.Compression.dll
+D:\Clases\Clases Programacion\Obligatorios\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Clases\Clases Programacion\Obligatorios\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.IO.FileSystem.dll
+D:\Clases\Clases Programacion\Obligatorios\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Clases\Clases Programacion\Obligatorios\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Net.Http.dll
+D:\Clases\Clases Programacion\Obligatorios\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Net.Sockets.dll
+D:\Clases\Clases Programacion\Obligatorios\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Reflection.Metadata.dll
+D:\Clases\Clases Programacion\Obligatorios\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Clases\Clases Programacion\Obligatorios\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Clases\Clases Programacion\Obligatorios\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Clases\Clases Programacion\Obligatorios\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Clases\Clases Programacion\Obligatorios\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Clases\Clases Programacion\Obligatorios\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Clases\Clases Programacion\Obligatorios\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Clases\Clases Programacion\Obligatorios\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.ValueTuple.dll
+D:\Clases\Clases Programacion\Obligatorios\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Clases\Clases Programacion\Obligatorios\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Clases\Clases Programacion\Obligatorios\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Xml.XPath.dll
+D:\Clases\Clases Programacion\Obligatorios\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Clases\Clases Programacion\Obligatorios\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\vbc.exe
+D:\Clases\Clases Programacion\Obligatorios\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\vbc.exe.config
+D:\Clases\Clases Programacion\Obligatorios\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\vbc.rsp
+D:\Clases\Clases Programacion\Obligatorios\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\VBCSCompiler.exe
+D:\Clases\Clases Programacion\Obligatorios\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\roslyn\VBCSCompiler.exe.config
+D:\Clases\Clases Programacion\Obligatorios\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\Antlr3.Runtime.dll
+D:\Clases\Clases Programacion\Obligatorios\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Clases\Clases Programacion\Obligatorios\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\AspNet.ScriptManager.jQuery.dll
+D:\Clases\Clases Programacion\Obligatorios\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\ClasesObligatorio3.dll
+D:\Clases\Clases Programacion\Obligatorios\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\ControladorasOblig.dll
+D:\Clases\Clases Programacion\Obligatorios\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Clases\Clases Programacion\Obligatorios\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Clases\Clases Programacion\Obligatorios\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Clases\Clases Programacion\Obligatorios\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Clases\Clases Programacion\Obligatorios\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Clases\Clases Programacion\Obligatorios\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\Microsoft.Web.Infrastructure.dll
+D:\Clases\Clases Programacion\Obligatorios\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\Newtonsoft.Json.dll
+D:\Clases\Clases Programacion\Obligatorios\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\System.Web.Optimization.dll
+D:\Clases\Clases Programacion\Obligatorios\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\WebGrease.dll
+D:\Clases\Clases Programacion\Obligatorios\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\persistenciaDB.dll
+D:\Clases\Clases Programacion\Obligatorios\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\ClasesObligatorio3.pdb
+D:\Clases\Clases Programacion\Obligatorios\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\ControladorasOblig.pdb
+D:\Clases\Clases Programacion\Obligatorios\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\System.Web.Optimization.xml
+D:\Clases\Clases Programacion\Obligatorios\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\Newtonsoft.Json.xml
+D:\Clases\Clases Programacion\Obligatorios\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\Antlr3.Runtime.pdb
+D:\Clases\Clases Programacion\Obligatorios\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Clases\Clases Programacion\Obligatorios\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Clases\Clases Programacion\Obligatorios\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\persistenciaDB.pdb
+D:\Clases\Clases Programacion\Obligatorios\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\es\System.Web.Optimization.resources.dll
+D:\Clases\Clases Programacion\Obligatorios\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+D:\Clases\Clases Programacion\Obligatorios\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\obj\Debug\ObligatirioSemes3.csproj.AssemblyReference.cache
+D:\Clases\Clases Programacion\Obligatorios\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\obj\Debug\ObligatirioSemes3.csproj.CoreCompileInputs.cache
+D:\Clases\Clases Programacion\Obligatorios\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\obj\Debug\ObligatirioSemes3.csproj.CopyComplete
+D:\Clases\Clases Programacion\Obligatorios\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\obj\Debug\ObligatirioSemes3.dll
+D:\Clases\Clases Programacion\Obligatorios\ObligatorioProg\ObligatirioSemes3\ObligatirioSemes3\obj\Debug\ObligatirioSemes3.pdb
+D:\Clases\Obligatorios\ObligatorioProg\ObligatorioSemes3\ObligatirioSemes3\bin\ObligatirioSemes3.dll.config
+D:\Clases\Obligatorios\ObligatorioProg\ObligatorioSemes3\ObligatirioSemes3\bin\ObligatirioSemes3.dll
+D:\Clases\Obligatorios\ObligatorioProg\ObligatorioSemes3\ObligatirioSemes3\bin\ObligatirioSemes3.pdb
+D:\Clases\Obligatorios\ObligatorioProg\ObligatorioSemes3\ObligatirioSemes3\bin\roslyn\csc.exe
+D:\Clases\Obligatorios\ObligatorioProg\ObligatorioSemes3\ObligatirioSemes3\bin\roslyn\csc.exe.config
+D:\Clases\Obligatorios\ObligatorioProg\ObligatorioSemes3\ObligatirioSemes3\bin\roslyn\csc.rsp
+D:\Clases\Obligatorios\ObligatorioProg\ObligatorioSemes3\ObligatirioSemes3\bin\roslyn\csi.exe
+D:\Clases\Obligatorios\ObligatorioProg\ObligatorioSemes3\ObligatirioSemes3\bin\roslyn\csi.exe.config
+D:\Clases\Obligatorios\ObligatorioProg\ObligatorioSemes3\ObligatirioSemes3\bin\roslyn\csi.rsp
+D:\Clases\Obligatorios\ObligatorioProg\ObligatorioSemes3\ObligatirioSemes3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Clases\Obligatorios\ObligatorioProg\ObligatorioSemes3\ObligatirioSemes3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Clases\Obligatorios\ObligatorioProg\ObligatorioSemes3\ObligatirioSemes3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Clases\Obligatorios\ObligatorioProg\ObligatorioSemes3\ObligatirioSemes3\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Clases\Obligatorios\ObligatorioProg\ObligatorioSemes3\ObligatirioSemes3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Clases\Obligatorios\ObligatorioProg\ObligatorioSemes3\ObligatirioSemes3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Clases\Obligatorios\ObligatorioProg\ObligatorioSemes3\ObligatirioSemes3\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Clases\Obligatorios\ObligatorioProg\ObligatorioSemes3\ObligatirioSemes3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Clases\Obligatorios\ObligatorioProg\ObligatorioSemes3\ObligatirioSemes3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Clases\Obligatorios\ObligatorioProg\ObligatorioSemes3\ObligatirioSemes3\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Clases\Obligatorios\ObligatorioProg\ObligatorioSemes3\ObligatirioSemes3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Clases\Obligatorios\ObligatorioProg\ObligatorioSemes3\ObligatirioSemes3\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Clases\Obligatorios\ObligatorioProg\ObligatorioSemes3\ObligatirioSemes3\bin\roslyn\System.AppContext.dll
+D:\Clases\Obligatorios\ObligatorioProg\ObligatorioSemes3\ObligatirioSemes3\bin\roslyn\System.Collections.Immutable.dll
+D:\Clases\Obligatorios\ObligatorioProg\ObligatorioSemes3\ObligatirioSemes3\bin\roslyn\System.Console.dll
+D:\Clases\Obligatorios\ObligatorioProg\ObligatorioSemes3\ObligatirioSemes3\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Clases\Obligatorios\ObligatorioProg\ObligatorioSemes3\ObligatirioSemes3\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Clases\Obligatorios\ObligatorioProg\ObligatorioSemes3\ObligatirioSemes3\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Clases\Obligatorios\ObligatorioProg\ObligatorioSemes3\ObligatirioSemes3\bin\roslyn\System.Globalization.Calendars.dll
+D:\Clases\Obligatorios\ObligatorioProg\ObligatorioSemes3\ObligatirioSemes3\bin\roslyn\System.IO.Compression.dll
+D:\Clases\Obligatorios\ObligatorioProg\ObligatorioSemes3\ObligatirioSemes3\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Clases\Obligatorios\ObligatorioProg\ObligatorioSemes3\ObligatirioSemes3\bin\roslyn\System.IO.FileSystem.dll
+D:\Clases\Obligatorios\ObligatorioProg\ObligatorioSemes3\ObligatirioSemes3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Clases\Obligatorios\ObligatorioProg\ObligatorioSemes3\ObligatirioSemes3\bin\roslyn\System.Net.Http.dll
+D:\Clases\Obligatorios\ObligatorioProg\ObligatorioSemes3\ObligatirioSemes3\bin\roslyn\System.Net.Sockets.dll
+D:\Clases\Obligatorios\ObligatorioProg\ObligatorioSemes3\ObligatirioSemes3\bin\roslyn\System.Reflection.Metadata.dll
+D:\Clases\Obligatorios\ObligatorioProg\ObligatorioSemes3\ObligatirioSemes3\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Clases\Obligatorios\ObligatorioProg\ObligatorioSemes3\ObligatirioSemes3\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Clases\Obligatorios\ObligatorioProg\ObligatorioSemes3\ObligatirioSemes3\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Clases\Obligatorios\ObligatorioProg\ObligatorioSemes3\ObligatirioSemes3\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Clases\Obligatorios\ObligatorioProg\ObligatorioSemes3\ObligatirioSemes3\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Clases\Obligatorios\ObligatorioProg\ObligatorioSemes3\ObligatirioSemes3\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Clases\Obligatorios\ObligatorioProg\ObligatorioSemes3\ObligatirioSemes3\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Clases\Obligatorios\ObligatorioProg\ObligatorioSemes3\ObligatirioSemes3\bin\roslyn\System.ValueTuple.dll
+D:\Clases\Obligatorios\ObligatorioProg\ObligatorioSemes3\ObligatirioSemes3\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Clases\Obligatorios\ObligatorioProg\ObligatorioSemes3\ObligatirioSemes3\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Clases\Obligatorios\ObligatorioProg\ObligatorioSemes3\ObligatirioSemes3\bin\roslyn\System.Xml.XPath.dll
+D:\Clases\Obligatorios\ObligatorioProg\ObligatorioSemes3\ObligatirioSemes3\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Clases\Obligatorios\ObligatorioProg\ObligatorioSemes3\ObligatirioSemes3\bin\roslyn\vbc.exe
+D:\Clases\Obligatorios\ObligatorioProg\ObligatorioSemes3\ObligatirioSemes3\bin\roslyn\vbc.exe.config
+D:\Clases\Obligatorios\ObligatorioProg\ObligatorioSemes3\ObligatirioSemes3\bin\roslyn\vbc.rsp
+D:\Clases\Obligatorios\ObligatorioProg\ObligatorioSemes3\ObligatirioSemes3\bin\roslyn\VBCSCompiler.exe
+D:\Clases\Obligatorios\ObligatorioProg\ObligatorioSemes3\ObligatirioSemes3\bin\roslyn\VBCSCompiler.exe.config
+D:\Clases\Obligatorios\ObligatorioProg\ObligatorioSemes3\ObligatirioSemes3\bin\Antlr3.Runtime.dll
+D:\Clases\Obligatorios\ObligatorioProg\ObligatorioSemes3\ObligatirioSemes3\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Clases\Obligatorios\ObligatorioProg\ObligatorioSemes3\ObligatirioSemes3\bin\AspNet.ScriptManager.jQuery.dll
+D:\Clases\Obligatorios\ObligatorioProg\ObligatorioSemes3\ObligatirioSemes3\bin\ClasesObligatorio3.dll
+D:\Clases\Obligatorios\ObligatorioProg\ObligatorioSemes3\ObligatirioSemes3\bin\ControladorasOblig.dll
+D:\Clases\Obligatorios\ObligatorioProg\ObligatorioSemes3\ObligatirioSemes3\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Clases\Obligatorios\ObligatorioProg\ObligatorioSemes3\ObligatirioSemes3\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Clases\Obligatorios\ObligatorioProg\ObligatorioSemes3\ObligatirioSemes3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Clases\Obligatorios\ObligatorioProg\ObligatorioSemes3\ObligatirioSemes3\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Clases\Obligatorios\ObligatorioProg\ObligatorioSemes3\ObligatirioSemes3\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Clases\Obligatorios\ObligatorioProg\ObligatorioSemes3\ObligatirioSemes3\bin\Microsoft.Web.Infrastructure.dll
+D:\Clases\Obligatorios\ObligatorioProg\ObligatorioSemes3\ObligatirioSemes3\bin\Newtonsoft.Json.dll
+D:\Clases\Obligatorios\ObligatorioProg\ObligatorioSemes3\ObligatirioSemes3\bin\System.Web.Optimization.dll
+D:\Clases\Obligatorios\ObligatorioProg\ObligatorioSemes3\ObligatirioSemes3\bin\WebGrease.dll
+D:\Clases\Obligatorios\ObligatorioProg\ObligatorioSemes3\ObligatirioSemes3\bin\persistenciaDB.dll
+D:\Clases\Obligatorios\ObligatorioProg\ObligatorioSemes3\ObligatirioSemes3\bin\ClasesObligatorio3.pdb
+D:\Clases\Obligatorios\ObligatorioProg\ObligatorioSemes3\ObligatirioSemes3\bin\ControladorasOblig.pdb
+D:\Clases\Obligatorios\ObligatorioProg\ObligatorioSemes3\ObligatirioSemes3\bin\System.Web.Optimization.xml
+D:\Clases\Obligatorios\ObligatorioProg\ObligatorioSemes3\ObligatirioSemes3\bin\Newtonsoft.Json.xml
+D:\Clases\Obligatorios\ObligatorioProg\ObligatorioSemes3\ObligatirioSemes3\bin\Antlr3.Runtime.pdb
+D:\Clases\Obligatorios\ObligatorioProg\ObligatorioSemes3\ObligatirioSemes3\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Clases\Obligatorios\ObligatorioProg\ObligatorioSemes3\ObligatirioSemes3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Clases\Obligatorios\ObligatorioProg\ObligatorioSemes3\ObligatirioSemes3\bin\persistenciaDB.pdb
+D:\Clases\Obligatorios\ObligatorioProg\ObligatorioSemes3\ObligatirioSemes3\bin\es\System.Web.Optimization.resources.dll
+D:\Clases\Obligatorios\ObligatorioProg\ObligatorioSemes3\ObligatirioSemes3\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+D:\Clases\Obligatorios\ObligatorioProg\ObligatorioSemes3\ObligatirioSemes3\obj\Debug\ObligatirioSemes3.csproj.AssemblyReference.cache
+D:\Clases\Obligatorios\ObligatorioProg\ObligatorioSemes3\ObligatirioSemes3\obj\Debug\ObligatirioSemes3.csproj.CoreCompileInputs.cache
+D:\Clases\Obligatorios\ObligatorioProg\ObligatorioSemes3\ObligatirioSemes3\obj\Debug\ObligatirioSemes3.csproj.CopyComplete
+D:\Clases\Obligatorios\ObligatorioProg\ObligatorioSemes3\ObligatirioSemes3\obj\Debug\ObligatirioSemes3.dll
+D:\Clases\Obligatorios\ObligatorioProg\ObligatorioSemes3\ObligatirioSemes3\obj\Debug\ObligatirioSemes3.pdb

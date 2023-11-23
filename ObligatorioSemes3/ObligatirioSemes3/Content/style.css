@@ -1,0 +1,90 @@
+﻿
+
+#body {
+
+{
+    margin: 0;
+    padding: 0;
+    - background: #333;
+   min-height: 100vh;
+
+}
+
+.option-box {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: linear-gradient(45deg,#ffff);
+    ;
+}
+
+.name-box {
+    position: absolute;
+    top: 40%;
+    left: 21%;
+    transform: translate(-30%,-50%);
+    color: solid white;
+    text-align: center;
+}
+
+h1 {
+    font-size: 400%
+}
+
+.login-btn {
+    position: absolute;
+    top: 113%;
+    left: 45%;
+    transform: translate(-30%,-50%);
+    color: solid white;
+    text-align: center;
+    display: block;
+    box-sizing: border-box;
+    width: 200px;
+    background: #fff;
+    border: 1px none;
+    padding: 10px 20px;
+    color: grey;
+    outline: none;
+    margin: 10px 0;
+    border-radius: 6px;
+    text-align: center webkit-box-shadow: 0px 0px 5px 2px rgba(173,173,173,1);
+    -moz-box-shadow: 0px 2px 5px 2px rgba(173,173,173,1);
+    box-shadow: 0px 2px 5px 2px rgba(173,173,173,1);
+}
+
+.register-btn {
+    position: absolute;
+    top: 100%;
+    left: 45%;
+    transform: translate(-30%,-50%);
+    color: solid blue;
+    text-align: center;
+    display: block;
+    box-sizing: border-box;
+    width: 200px;
+    background: #fff;
+    border: 1px none;
+    padding: 10px 20px;
+    color: grey;
+    outline: none;
+    margin: 10px 0;
+    border-radius: 6px;
+    text-align: center;
+    webkit-box-shadow: 0px 2px 5px 2px rgba(173,173,173,1);
+    -moz-box-shadow: 0px 2px 5px 2px rgba(173,173,173,1);
+    box-shadow: 0px 0px 5px 2px rgba(173,173,173,1);
+}
+#header {
+    width: 100%;
+    margin: auto;
+    background: #8181F7;
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+}
+}
